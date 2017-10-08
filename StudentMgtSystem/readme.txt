@@ -1,0 +1,1 @@
+A console program for Student Management System (CRUD operation) using Dapper.
