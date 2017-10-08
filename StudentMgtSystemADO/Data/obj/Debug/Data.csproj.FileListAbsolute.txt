@@ -1,0 +1,8 @@
+C:\Workspace\CSharp\StudentMgtSystemADO\Data\bin\Debug\Data.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\Data\bin\Debug\Data.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\Data\bin\Debug\Models.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\Data\bin\Debug\Models.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Workspace\CSharp\StudentMgtSystemADO\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\StudentMgtSystemADO\Data\obj\Debug\Data.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\Data\obj\Debug\Data.pdb

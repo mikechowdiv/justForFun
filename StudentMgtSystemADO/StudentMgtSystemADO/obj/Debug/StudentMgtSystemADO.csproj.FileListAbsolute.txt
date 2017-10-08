@@ -1,0 +1,15 @@
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\StudentMgtSystemADO.exe.config
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\StudentMgtSystemADO.exe
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\StudentMgtSystemADO.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\Helpers.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\Workflows.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\Models.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\Data.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\Helpers.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\Workflows.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\Models.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\bin\Debug\Data.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\obj\Debug\StudentMgtSystemADO.csprojResolveAssemblyReference.cache
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\obj\Debug\StudentMgtSystemADO.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\obj\Debug\StudentMgtSystemADO.exe
+C:\Workspace\CSharp\StudentMgtSystemADO\StudentMgtSystemADO\obj\Debug\StudentMgtSystemADO.pdb

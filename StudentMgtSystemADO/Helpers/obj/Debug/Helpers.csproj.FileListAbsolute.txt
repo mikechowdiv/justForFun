@@ -1,0 +1,8 @@
+C:\Workspace\CSharp\StudentMgtSystemADO\Helpers\bin\Debug\Helpers.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\Helpers\bin\Debug\Helpers.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\Helpers\bin\Debug\Models.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\Helpers\bin\Debug\Models.pdb
+C:\Workspace\CSharp\StudentMgtSystemADO\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Workspace\CSharp\StudentMgtSystemADO\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\StudentMgtSystemADO\Helpers\obj\Debug\Helpers.dll
+C:\Workspace\CSharp\StudentMgtSystemADO\Helpers\obj\Debug\Helpers.pdb

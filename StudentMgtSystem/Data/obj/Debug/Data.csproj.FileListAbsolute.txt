@@ -8,3 +8,13 @@ C:\Workspace\CSharp\StudentMgtSystem\Data\obj\Debug\Data.csprojResolveAssemblyRe
 C:\Workspace\CSharp\StudentMgtSystem\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Workspace\CSharp\StudentMgtSystem\Data\obj\Debug\Data.dll
 C:\Workspace\CSharp\StudentMgtSystem\Data\obj\Debug\Data.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\bin\Debug\Data.dll
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\bin\Debug\Data.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\bin\Debug\Dapper.dll
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\bin\Debug\Models.dll
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\bin\Debug\Models.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\bin\Debug\Dapper.xml
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\obj\Debug\Data.dll
+C:\Workspace\Git\justForFun\StudentMgtSystem\Data\obj\Debug\Data.pdb
