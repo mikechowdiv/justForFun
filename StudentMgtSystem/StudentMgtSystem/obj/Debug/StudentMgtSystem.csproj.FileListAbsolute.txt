@@ -1,0 +1,17 @@
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\StudentMgtSystem.exe.config
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\StudentMgtSystem.exe
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\StudentMgtSystem.pdb
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Helpers.dll
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Workflows.dll
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Models.dll
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Data.dll
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Dapper.dll
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Helpers.pdb
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Workflows.pdb
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Models.pdb
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Data.pdb
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\bin\Debug\Dapper.xml
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\obj\Debug\StudentMgtSystem.csprojResolveAssemblyReference.cache
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\obj\Debug\StudentMgtSystem.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\obj\Debug\StudentMgtSystem.exe
+C:\Workspace\CSharp\StudentMgtSystem\StudentMgtSystem\obj\Debug\StudentMgtSystem.pdb

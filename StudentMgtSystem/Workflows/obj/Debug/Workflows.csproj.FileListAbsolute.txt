@@ -1,0 +1,14 @@
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Workflows.dll
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Workflows.pdb
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Data.dll
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Helpers.dll
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Models.dll
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Dapper.dll
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Data.pdb
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Helpers.pdb
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Models.pdb
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\bin\Debug\Dapper.xml
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\obj\Debug\Workflows.csprojResolveAssemblyReference.cache
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\obj\Debug\Workflows.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\obj\Debug\Workflows.dll
+C:\Workspace\CSharp\StudentMgtSystem\Workflows\obj\Debug\Workflows.pdb
