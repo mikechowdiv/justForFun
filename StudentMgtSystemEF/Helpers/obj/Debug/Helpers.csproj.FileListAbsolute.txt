@@ -1,0 +1,11 @@
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\bin\Debug\Helpers.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\bin\Debug\Helpers.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\bin\Debug\Data.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\bin\Debug\EntityFramework.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\bin\Debug\Data.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\bin\Debug\Data.dll.config
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\bin\Debug\EntityFramework.xml
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\obj\Debug\Helpers.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Helpers\obj\Debug\Helpers.pdb

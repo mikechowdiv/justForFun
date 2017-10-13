@@ -1,0 +1,13 @@
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\Workflows.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\Workflows.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\Data.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\Helpers.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\EntityFramework.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\Data.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\Data.dll.config
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\Helpers.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\bin\Debug\EntityFramework.xml
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\obj\Debug\Workflows.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\obj\Debug\Workflows.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\obj\Debug\Workflows.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Workflows\obj\Debug\Workflows.pdb

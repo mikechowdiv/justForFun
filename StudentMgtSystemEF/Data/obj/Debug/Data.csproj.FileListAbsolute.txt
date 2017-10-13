@@ -1,0 +1,11 @@
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\bin\Debug\Data.dll.config
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\bin\Debug\Data.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\bin\Debug\Data.pdb
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\bin\Debug\EntityFramework.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\bin\Debug\EntityFramework.xml
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\obj\Debug\Data.dll
+C:\Workspace\Git\justForFun\StudentMgtSystemEF\Data\obj\Debug\Data.pdb
