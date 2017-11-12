@@ -1,0 +1,5 @@
+C:\Workspace\CSharp\ShackUp\Shack1\Models\bin\Debug\Models.dll
+C:\Workspace\CSharp\ShackUp\Shack1\Models\bin\Debug\Models.pdb
+C:\Workspace\CSharp\ShackUp\Shack1\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\ShackUp\Shack1\Models\obj\Debug\Models.dll
+C:\Workspace\CSharp\ShackUp\Shack1\Models\obj\Debug\Models.pdb

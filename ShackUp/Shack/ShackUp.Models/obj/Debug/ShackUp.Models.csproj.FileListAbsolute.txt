@@ -1,0 +1,6 @@
+C:\Workspace\CSharp\ShackUp\Shack\ShackUp.Models\bin\Debug\ShackUp.Models.dll
+C:\Workspace\CSharp\ShackUp\Shack\ShackUp.Models\bin\Debug\ShackUp.Models.pdb
+C:\Workspace\CSharp\ShackUp\Shack\ShackUp.Models\obj\Debug\ShackUp.Models.csprojResolveAssemblyReference.cache
+C:\Workspace\CSharp\ShackUp\Shack\ShackUp.Models\obj\Debug\ShackUp.Models.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp\ShackUp\Shack\ShackUp.Models\obj\Debug\ShackUp.Models.dll
+C:\Workspace\CSharp\ShackUp\Shack\ShackUp.Models\obj\Debug\ShackUp.Models.pdb
